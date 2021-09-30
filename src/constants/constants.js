@@ -15,7 +15,7 @@ export const projects = [
       "people can enter the room id, and chat with the remaining users, instantly and chats vanish once everyone leaves the room. Made using react js, nodejs, express and web sockets",
     image: "/images/2.png",
     tags: ["React", "express", "Node", "socketio"],
-    source: "https://5ee87a968cf2790cf09fd46f--chatter-react.netlify.app/",
+    source: "https://chatter-react-kola.netlify.app/",
     // visit: "https://google.com",
     id: 1
   },
@@ -25,9 +25,31 @@ export const projects = [
       "Web App displays and also gives access to control the real-time sensor data from the houses. Made using React js, Firebase, Arduino, sensors",
     image: "/images/3.png",
     tags: ["React", "Nodemcu", "Firebase", "Arduino"],
-    source: "https://csb-d3l6y.netlify.app/",
-    visit: "https://google.com",
+    source: "https://csb-k22zo.netlify.app/",
+    // visit: "https://google.com",
     id: 2
+  },
+  {
+    title: "Online Code editor",
+    description:
+      "Online sandbox like codepen which have Html, Css, Js editor features and an option to share the work through a link. Also supports local saving.",
+    image:
+      "https://xopixel.com/wp-content/uploads/2017/06/10-Awesome-Code-Editors-For-Web-Developers-1000x500.jpg",
+    tags: ["React js", "Javascript", "Firebase", "Rest APIs"],
+    source: "https://editor.reddynagendrakola.study/",
+    //visit: "https://google.com",
+    id: 3
+  },
+  {
+    title: "CollegeDB",
+    description:
+      "React app for faster fetching of more than 10000 students and 100s of colleges ina very cool design using React js, mongodb, nodejs, expressjs",
+    image:
+      "https://docs.mongodb.com/manual/images/crud-annotated-collection.bakedsvg.svg",
+    tags: ["opencv", "python", "skin detection"],
+    source: "https://oneshot.reddynagendrakola.study/",
+    visit: "https://google.com",
+    id: 10
   },
   {
     title: "Gesture controlled mouse",
@@ -35,9 +57,9 @@ export const projects = [
       "Mouse control with Hand gestures Used Computer vision to detect and analyze hand movements and controlling the mouse and keyboard based on hand gestures.",
     image: "/images/7.png",
     tags: ["opencv", "python", "skin detection"],
-    source: "https://google.com",
+    source: "",
     visit: "https://google.com",
-    id: 3
+    id: 4
   },
   {
     title: "Corona Snippets",
@@ -47,7 +69,7 @@ export const projects = [
     tags: ["openweather", "Covid api", "javascript"],
     source: "https://coronasnippets.netlify.app/",
     visit: "https://google.com",
-    id: 4
+    id: 5
   },
   {
     title: "Colori",
@@ -57,7 +79,7 @@ export const projects = [
     tags: ["Arduino", "Color sensor", "Flex sensors"],
     source: "https://google.com",
     visit: "https://google.com",
-    id: 5
+    id: 6
   }
 ];
 

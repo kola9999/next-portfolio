@@ -24,7 +24,7 @@ const Hero = (props) => (
           and implement new technologies.
         </SectionText>
         <span>
-          <Link href="https://drive.google.com/file/d/1SduQdwThlNjg7_G84TJMVR5ko5P-3Vi7/view?usp=sharing">
+          <Link href="https://drive.google.com/file/d/1LFkY5veyMSXwQ-0-8gqan1qL-xLFVwHL/view?usp=sharing">
             <Button>
               <BsLink45Deg size="3rem" />
               My Resume
