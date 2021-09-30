@@ -36,7 +36,7 @@ export const projects = [
     image:
       "https://xopixel.com/wp-content/uploads/2017/06/10-Awesome-Code-Editors-For-Web-Developers-1000x500.jpg",
     tags: ["React js", "Javascript", "Firebase", "Rest APIs"],
-    source: "https://editor.reddynagendrakola.study/",
+    source: "https://csb-5oxep.netlify.app/",
     //visit: "https://google.com",
     id: 3
   },
@@ -47,7 +47,7 @@ export const projects = [
     image:
       "https://docs.mongodb.com/manual/images/crud-annotated-collection.bakedsvg.svg",
     tags: ["opencv", "python", "skin detection"],
-    source: "https://oneshot.reddynagendrakola.study/",
+    source: "https://collegedbkola.netlify.app",
     visit: "https://google.com",
     id: 10
   },
